@@ -38,7 +38,8 @@ info@fundadminchain.com
 [Comparing enterprise blockchains (Medium article)](https://medium.com/swlh/choosing-an-enterprise-blockchain-an-exhaustive-guide-749ba7db382c)  
 
 4. Some useful resources for Tokenisation  
-*work in progress - come back later*
+[Tokens of Appreciation? (BNYM blog post)](https://www.bnymellon.com/us/en/insights/aerial-view-magazine/tokens-of-appreciation.html)  
+
 
 5. Legal and Regulatory resources  
 *work in progress - come back later*
