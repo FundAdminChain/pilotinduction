@@ -39,6 +39,7 @@ info@fundadminchain.com
 [Comparing enterprise blockchains (Medium article)](https://medium.com/swlh/choosing-an-enterprise-blockchain-an-exhaustive-guide-749ba7db382c)  
 [What is a UTXO (R3 blog)](https://www.r3.com/blog/what-is-a-uxto/)  
 [Introduction to digital signatures (video)](https://youtu.be/stsWa9A3sOM)  
+[Public key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)  
 
 4. Some useful resources for Tokenisation  
 [Tokens of Appreciation? (BNYM blog post)](https://www.bnymellon.com/us/en/insights/aerial-view-magazine/tokens-of-appreciation.html)  
