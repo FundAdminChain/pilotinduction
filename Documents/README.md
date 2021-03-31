@@ -3,5 +3,5 @@
 
 1.Blockchain quick facts for business - A quick easy guide for blockchain and Corda starters published by R3
 
-[**Return to main page**](https://github.com/FundAdminChain/induction/blob/master/README.md)    
+[**Return to main page**](https://github.com/FundAdminChain/induction)    
 
