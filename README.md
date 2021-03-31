@@ -25,7 +25,7 @@ info@fundadminchain.com
 [Blockchain 101 (A medium article)](https://medium.com/coinmonks/blockchain-101-beginners-guide-to-understanding-the-technology-75a75f863ec2)  
 
 2. So what is Corda Enterprise?  
-•	https://vimeo.com/279232775  
+[Introduction to Corda (a short video)](https://vimeo.com/279232775)  
 •	https://medium.com/corda/markets-are-decentralised-and-the-software-that-runs-them-should-be-too-bb3bd0f79bb8  
 •	https://www.r3.com/wp-content/uploads/2019/06/corda-platform-whitepaper.pdf  
 •	https://training.corda.net/fundamentals/introduction/  
