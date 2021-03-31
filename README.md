@@ -42,7 +42,7 @@ info@fundadminchain.com
 [OECD report on the tokenisation of assets and implications for finanical markets](https://digitalchamber.org/initiatives/token-alliance/)
 
 5. Legal and Regulatory resources  
-[FCA Guidance on CryptoAssets - PS19/3 (PDF)](https://www.fca.org.uk/publication/policy/ps19-22.pdf)  
+[FCA Guidance on CryptoAssets - PS19/22 (PDF)](https://www.fca.org.uk/publication/policy/ps19-22.pdf)  
 [FCA CryptoAsset aml/ctf regime](https://www.fca.org.uk/firms/financial-crime/cryptoassets-aml-ctf-regime)  
 [Lawtech delivery panel report on crypto-assets and smart contracts (PDF)](https://35z8e83m1ih83drye280o9d1-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/6.6056_JO_Cryptocurrencies_Statement_FINAL_WEB_111119-1.pdf)  
 [Law Society blockchain legal and regulatory guidance report 9/20](https://www.lawsociety.org.uk/topics/research/blockchain-legal-and-regulatory-guidance-report)  
