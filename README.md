@@ -33,9 +33,12 @@ info@fundadminchain.com
 [Corda Key Concepts (online training)](https://training.corda.net/key-concepts/introduction/)  
 
 3. If you're looking for a bit more of a technical background:  
+[Blockchain, a visual demo (video)](https://andersbrownworth.com/blockchain/)  
 [Hackernoon blockchain 101 (blog post)](https://hackernoon.com/blockchain-101-only-if-you-know-nothing-b883902c59f7)  
 [Corda technical white paper (PDF)](https://www.r3.com/wp-content/uploads/2019/08/corda-technical-whitepaper-August-29-2019.pdf)  
 [Comparing enterprise blockchains (Medium article)](https://medium.com/swlh/choosing-an-enterprise-blockchain-an-exhaustive-guide-749ba7db382c)  
+[What is a UTXO (R3 blog)](https://www.r3.com/blog/what-is-a-uxto/) 
+[Introduction to digital signatures (video)](https://youtu.be/stsWa9A3sOM)  
 
 4. Some useful resources for Tokenisation  
 [Tokens of Appreciation? (BNYM blog post)](https://www.bnymellon.com/us/en/insights/aerial-view-magazine/tokens-of-appreciation.html)  
