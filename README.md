@@ -24,17 +24,17 @@ info@fundadminchain.com
 [The Blockchain Explained Simply (TED video)](https://www.youtube.com/watch?v=KP_hGPQVLpA)  
 [Blockchain 101 (Medium article)](https://medium.com/coinmonks/blockchain-101-beginners-guide-to-understanding-the-technology-75a75f863ec2)  
 
-2. So what is Corda Enterprise?  
+2. So what is Corda Enterprise (non technical)?  
 [Introduction to Corda (a short video)](https://vimeo.com/279232775)  
 [Intro to the thinking behind Corda (Medium article)](https://medium.com/corda/markets-are-decentralised-and-the-software-that-runs-them-should-be-too-bb3bd0f79bb8)  
 [The Corda white paper (PDF)](https://www.r3.com/wp-content/uploads/2019/06/corda-platform-whitepaper.pdf)  
-[Corda fundamental (onine training)](https://training.corda.net/fundamentals/introduction/)  
+[Corda fundamentals (online training)](https://training.corda.net/fundamentals/introduction/)  
 [Corda Key Concepts (online training)](https://training.corda.net/key-concepts/introduction/)  
 
 3. If you're looking for a bit more of a technical background:  
-•	https://hackernoon.com/blockchain-101-only-if-you-know-nothing-b883902c59f7  
-•	https://www.r3.com/wp-content/uploads/2019/08/corda-technical-whitepaper-August-29-2019.pdf  
-•	https://medium.com/swlh/choosing-an-enterprise-blockchain-an-exhaustive-guide-749ba7db382c  
+[Hackernoon blockchain 101 (blog post)](https://hackernoon.com/blockchain-101-only-if-you-know-nothing-b883902c59f7)  
+[Corda technical white paper (PDF)](https://www.r3.com/wp-content/uploads/2019/08/corda-technical-whitepaper-August-29-2019.pdf)  
+[Comparing enterprise blockchains (Medium article)](https://medium.com/swlh/choosing-an-enterprise-blockchain-an-exhaustive-guide-749ba7db382c)  
 
 4. Some useful resources for Tokenisation  
 *work in progress - come back later*
