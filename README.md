@@ -42,6 +42,7 @@ info@fundadminchain.com
 [Public key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)  
 
 4. Some useful resources for Tokenisation  
+[Tokens explained (Medium article)](https://medium.com/invao/tokens-explained-a-gentle-introduction-d7ff143656a2)  
 [Tokens of Appreciation? (BNYM blog post)](https://www.bnymellon.com/us/en/insights/aerial-view-magazine/tokens-of-appreciation.html)  
 [OECD report on the tokenisation of assets and implications for finanical markets](https://digitalchamber.org/initiatives/token-alliance/)
 
