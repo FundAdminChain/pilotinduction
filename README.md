@@ -1,5 +1,5 @@
 ![FAC Logo](/images/logo.jpg)
-# FAC Induction
+# Induction
 An online repository of induction resources for FAC 
 
 **Welcome to FAC**  :smiley:
