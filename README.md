@@ -1,4 +1,4 @@
-![FAC Logo](/images/logo.jpg)
+![FAC Logo](/images/logo.jpg) 
 # Induction
 An online repository of induction resources for FAC 
 
@@ -21,7 +21,7 @@ info@fundadminchain.com
 **FAC Induction Resources**
 
 1. The basics, introducing Blockchain:  
-•	https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare  
+[How the blockchain is changing money and business (TED video)]	(https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)  
 •	https://www.youtube.com/watch?v=KP_hGPQVLpA  
 •	https://medium.com/coinmonks/blockchain-101-beginners-guide-to-understanding-the-technology-75a75f863ec2  
 
