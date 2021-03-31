@@ -39,7 +39,7 @@ info@fundadminchain.com
 
 4. Some useful resources for Tokenisation  
 [Tokens of Appreciation? (BNYM blog post)](https://www.bnymellon.com/us/en/insights/aerial-view-magazine/tokens-of-appreciation.html)  
-
+[OECD report on the tokenisation of assets and implications for finanical markets](https://digitalchamber.org/initiatives/token-alliance/)
 
 5. Legal and Regulatory resources  
 *work in progress - come back later*
