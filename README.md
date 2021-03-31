@@ -22,14 +22,14 @@ info@fundadminchain.com
 1. The basics, introducing Blockchain:  
 [How the blockchain is changing money and business (TED video)](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)  
 [The Blockchain Explained Simply (TED video)](https://www.youtube.com/watch?v=KP_hGPQVLpA)  
-[Blockchain 101 (A medium article)](https://medium.com/coinmonks/blockchain-101-beginners-guide-to-understanding-the-technology-75a75f863ec2)  
+[Blockchain 101 (Medium article)](https://medium.com/coinmonks/blockchain-101-beginners-guide-to-understanding-the-technology-75a75f863ec2)  
 
 2. So what is Corda Enterprise?  
 [Introduction to Corda (a short video)](https://vimeo.com/279232775)  
-•	https://medium.com/corda/markets-are-decentralised-and-the-software-that-runs-them-should-be-too-bb3bd0f79bb8  
-•	https://www.r3.com/wp-content/uploads/2019/06/corda-platform-whitepaper.pdf  
-•	https://training.corda.net/fundamentals/introduction/  
-•	https://training.corda.net/key-concepts/introduction/  
+[Intro to the thinking behind Corda (Medium article)](https://medium.com/corda/markets-are-decentralised-and-the-software-that-runs-them-should-be-too-bb3bd0f79bb8)  
+[The Corda white paper (PDF)](https://www.r3.com/wp-content/uploads/2019/06/corda-platform-whitepaper.pdf)  
+[Corda fundamental (onine training)](https://training.corda.net/fundamentals/introduction/)  
+[Corda Key Concepts (online training)](https://training.corda.net/key-concepts/introduction/)  
 
 3. If you're looking for a bit more of a technical background:  
 •	https://hackernoon.com/blockchain-101-only-if-you-know-nothing-b883902c59f7  
