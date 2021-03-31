@@ -4,7 +4,7 @@ An online repository of induction resources for FAC
 
 **Welcome to FAC**  :smiley:
 
-In this folder you will find documents and links to online resources to introduce you to the application of distributed ledger technology in the funds industry. Understanding the key concepts, the regulatory environment and how FAC is applying this technology to transform funds servicing will help ensure you get the most out of your collaboration with us.
+In this repository you will find documents and links to online resources to introduce you to the application of distributed ledger technology in the funds industry. Understanding the key concepts, the regulatory environment and how FAC is applying this technology to transform funds servicing will help ensure you get the most out of your collaboration with us.
 
 We are more than happy to answer questions, provide demonstrations and lead one to one or small group sessions to help explain, reinforce and dive deeper into this material. Please just ask, contact details can be found below.
 
