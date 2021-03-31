@@ -22,7 +22,7 @@ info@fundadminchain.com
 1. The basics, introducing Blockchain:  
 [How the blockchain is changing money and business (TED video)](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)  
 [The Blockchain Explained Simply (TED video)](https://www.youtube.com/watch?v=KP_hGPQVLpA)  
-•	https://medium.com/coinmonks/blockchain-101-beginners-guide-to-understanding-the-technology-75a75f863ec2  
+[Blockchain 101 (A medium article)](https://medium.com/coinmonks/blockchain-101-beginners-guide-to-understanding-the-technology-75a75f863ec2)  
 
 2. So what is Corda Enterprise?  
 •	https://vimeo.com/279232775  
