@@ -47,7 +47,7 @@ info@fundadminchain.com
 [Lawtech delivery panel report on crypto-assets and smart contracts (PDF)](https://35z8e83m1ih83drye280o9d1-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/6.6056_JO_Cryptocurrencies_Statement_FINAL_WEB_111119-1.pdf)  
 [Law Society blockchain legal and regulatory guidance report 9/20](https://www.lawsociety.org.uk/topics/research/blockchain-legal-and-regulatory-guidance-report)  
 [Legal and regulatory considerations for digital assets (Judge Business School)](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/legal-and-regulatory-considerations-for-digital-assets/)  
-[Guide to EU MICA regulations (blog post)](https://www.sygna.io/blog/what-is-mica-markets-in-crypto-assets-eu-regulation-guide/)  
+[A guide to EU MICA regulations (blog post)](https://www.sygna.io/blog/what-is-mica-markets-in-crypto-assets-eu-regulation-guide/)  
 
 6. All about FAC  
 *work in progress - come back later*
