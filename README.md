@@ -38,8 +38,6 @@ info@fundadminchain.com
 [Corda technical white paper (PDF)](https://www.r3.com/wp-content/uploads/2019/08/corda-technical-whitepaper-August-29-2019.pdf)  
 [Comparing enterprise blockchains (Medium article)](https://medium.com/swlh/choosing-an-enterprise-blockchain-an-exhaustive-guide-749ba7db382c)  
 [What is a UTXO (R3 blog)](https://www.r3.com/blog/what-is-a-uxto/)  
-[Introduction to digital signatures (video)](https://youtu.be/stsWa9A3sOM)  
-[Public key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)  
 
 4. Some useful resources for Tokenisation  
 [Tokens explained (Medium article)](https://medium.com/invao/tokens-explained-a-gentle-introduction-d7ff143656a2)  
