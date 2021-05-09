@@ -24,7 +24,7 @@ info@fundadminchain.com
 [The Blockchain Explained Simply (TED video)](https://www.youtube.com/watch?v=KP_hGPQVLpA)  
 [Blockchain 101 (Medium article)](https://medium.com/coinmonks/blockchain-101-beginners-guide-to-understanding-the-technology-75a75f863ec2)  
 [Blockchain quick facts for business (PDF)](https://github.com/FundAdminChain/induction/blob/master/Documents/Blockchain-quick-facts-for-business.pdf)  
-[World Economic Forum Report on DLT in captial markets - May 21 (PDF)](https://www.weforum.org/reports/digital-assets-distributed-ledger-technology-and-the-future-of-capital-markets/)  
+[World Economic Forum report on DLT in captial markets - May 21 (PDF)](https://www.weforum.org/reports/digital-assets-distributed-ledger-technology-and-the-future-of-capital-markets/)  
 
 2. So what is Corda Enterprise (non technical)?  
 [Introduction to Corda (a short video)](https://vimeo.com/279232775)  
