@@ -54,7 +54,7 @@ info@fundadminchain.com
 [A guide to EU MICA regulations (blog post)](https://www.sygna.io/blog/what-is-mica-markets-in-crypto-assets-eu-regulation-guide/)  
 
 6. All about FAC  
-[Distributed ledger technology an emerging consensus on the buy side (PDF)](https://github.com/FundAdminChain/induction/blob/master/Documents/distributed-ledger-technology-an-emerging-consensus-on-the-buy-side.pdf)  
-[The changing face of fund servicing - A FAC info slide (PDF)](https://github.com/FundAdminChain/induction/blob/master/Documents/The%20Changing%20Face%20of%20Fund%20Servicing.pdf)  
+[Distributed ledger technology an emerging consensus on the buy side (PDF)](https://github.com/FundAdminChain/induction/blob/master/Documents/distributed-ledger-technology-an-emerging-consensus-on-the-buy-side.pdf)   
 [FAC Product Overview (PDF)](https://github.com/FundAdminChain/induction/blob/master/Documents/FAC%20Product%20Overview.pdf)  
+[The changing face of fund servicing - A FAC info slide (PDF)](https://github.com/FundAdminChain/induction/blob/master/Documents/The%20Changing%20Face%20of%20Fund%20Servicing.pdf)  
 [Tech Summary (PDF)](https://github.com/FundAdminChain/induction/blob/master/Documents/Tech_Summary_v3.pdf)  
