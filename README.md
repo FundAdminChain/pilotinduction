@@ -55,5 +55,6 @@ info@fundadminchain.com
 
 6. All about FAC  
 [Distributed ledger technology an emerging consensus on the buy side (PDF)](https://github.com/FundAdminChain/induction/blob/master/Documents/distributed-ledger-technology-an-emerging-consensus-on-the-buy-side.pdf)  
+[The changin g face of fund servicing - A FAC info slide (PDF)] (https://github.com/FundAdminChain/induction/blob/master/Documents/The%20Changing%20Face%20of%20Fund%20Servicing.pdf)  
 [FAC Operating model overview (PDF)](https://github.com/FundAdminChain/induction/blob/master/Documents/FAC%20Operating%20Model%20Overview.pdf)  
 [Tech Summary (PDF)](https://github.com/FundAdminChain/induction/blob/master/Documents/Tech_Summary_v3.pdf)  
