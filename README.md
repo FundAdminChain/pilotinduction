@@ -44,6 +44,7 @@ info@fundadminchain.com
 [Tokens explained (Medium article)](https://medium.com/invao/tokens-explained-a-gentle-introduction-d7ff143656a2)  
 [Tokens of Appreciation? (BNYM blog post)](https://www.bnymellon.com/us/en/insights/aerial-view-magazine/tokens-of-appreciation.html)  
 [OECD report on the tokenisation of assets and implications for finanical markets](https://digitalchamber.org/initiatives/token-alliance/)
+[Future of Finance - Security Tokenisation Blog Post April 21](https://www.futureoffinance.biz/b/security-tokens-are-not-about-making-money-or-saving-money-but-about-doing-things-we-could-not-do-before?)   
 
 5. Legal and Regulatory resources  
 [FCA Guidance on CryptoAssets - PS19/22 (PDF)](https://www.fca.org.uk/publication/policy/ps19-22.pdf)  
