@@ -39,7 +39,6 @@ info@fundadminchain.com
 [Corda technical white paper (PDF)](https://www.r3.com/wp-content/uploads/2019/08/corda-technical-whitepaper-August-29-2019.pdf)  
 [Comparing enterprise blockchains (Medium article)](https://medium.com/swlh/choosing-an-enterprise-blockchain-an-exhaustive-guide-749ba7db382c)  
 [What is a UTXO (R3 blog)](https://www.r3.com/blog/what-is-a-uxto/)   
-[Governing DLT Networks (Accenture white paper PDF)](https://www.accenture.com/_acnmedia/Accenture/Redesign-Assets/DotCom/Documents/Global/2/Accenture-Governing-DLT-Networks.pdf)   
 
 4. Some useful resources for Tokenisation  
 [Tokens explained (Medium article)](https://medium.com/invao/tokens-explained-a-gentle-introduction-d7ff143656a2)  
@@ -54,6 +53,7 @@ info@fundadminchain.com
 [Law Society blockchain legal and regulatory guidance report 9/20](https://www.lawsociety.org.uk/topics/research/blockchain-legal-and-regulatory-guidance-report)  
 [Legal and regulatory considerations for digital assets (Judge Business School)](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/legal-and-regulatory-considerations-for-digital-assets/)  
 [A guide to EU MICA regulations (blog post)](https://www.sygna.io/blog/what-is-mica-markets-in-crypto-assets-eu-regulation-guide/)  
+[Governing DLT Networks (Accenture white paper PDF)](https://www.accenture.com/_acnmedia/Accenture/Redesign-Assets/DotCom/Documents/Global/2/Accenture-Governing-DLT-Networks.pdf)   
 
 6. All about FAC  
 [Distributed ledger technology an emerging consensus on the buy side (PDF)](https://github.com/FundAdminChain/induction/blob/master/Documents/distributed-ledger-technology-an-emerging-consensus-on-the-buy-side.pdf)   
