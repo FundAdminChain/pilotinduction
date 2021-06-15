@@ -54,6 +54,7 @@ info@fundadminchain.com
 [Legal and regulatory considerations for digital assets (Judge Business School)](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/legal-and-regulatory-considerations-for-digital-assets/)  
 [A guide to EU MICA regulations (blog post)](https://www.sygna.io/blog/what-is-mica-markets-in-crypto-assets-eu-regulation-guide/)  
 [Governing DLT Networks (Accenture white paper PDF)](https://www.accenture.com/_acnmedia/Accenture/Redesign-Assets/DotCom/Documents/Global/2/Accenture-Governing-DLT-Networks.pdf)   
+[Use of DLT in post trade processing (ECB PDF)](https://www.ecb.europa.eu/pub/pdf/other/ecb.20210412_useofdltposttradeprocesses~958e3af1c8.en.pdf)   
 
 6. All about FAC  
 [Distributed ledger technology an emerging consensus on the buy side (PDF)](https://github.com/FundAdminChain/induction/blob/master/Documents/distributed-ledger-technology-an-emerging-consensus-on-the-buy-side.pdf)   
