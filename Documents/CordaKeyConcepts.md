@@ -2,7 +2,7 @@
 
 [0 - Contents](https://vimeo.com/246478110)   
 [1 - The Corda Ledger](https://vimeo.com/213812040)   
-[2 - States (https://vimeo.com/213812054)   
+[2 - States](https://vimeo.com/213812054)   
 [3 - Transactions](https://vimeo.com/213879807)   
 [4 - Contracts](https://vimeo.com/214168839)   
 [5 - Commands](https://vimeo.com/213881538)   
