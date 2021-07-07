@@ -8,7 +8,8 @@
 3.Introduction to FAC  
 4.The changing face of fund servicing (FAC info slide)  
 5.FAC Product Overview - a short introduction to key features of the FAC operating model  
-6.Tech Summary - Introducing the FAC system and its architecture  
+6.Tech Summary - Introducing the FAC system and its architecture
+7.Corda Key Concepts -  A series of bite sized videos explaining key concepts
 
 
 [**Return to main page**](https://github.com/FundAdminChain/induction)    
