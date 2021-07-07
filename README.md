@@ -38,7 +38,7 @@ info@fundadminchain.com
 [Hackernoon blockchain 101 (blog post)](https://hackernoon.com/blockchain-101-only-if-you-know-nothing-b883902c59f7)  
 [Corda technical white paper (PDF)](https://www.r3.com/wp-content/uploads/2019/08/corda-technical-whitepaper-August-29-2019.pdf)  
 [Comparing enterprise blockchains (Medium article)](https://medium.com/swlh/choosing-an-enterprise-blockchain-an-exhaustive-guide-749ba7db382c)  
-[What is a UTXO (R3 blog)](https://www.r3.com/blog/what-is-a-uxto/) 
+[What is a UTXO (R3 blog)](https://www.r3.com/blog/what-is-a-uxto/)   
 [Corda Key Concepts (videos)](https://github.com/FundAdminChain/induction/blob/master/Documents/CordaKeyConcepts.md)   
 
 4. Some useful resources for Tokenisation  
